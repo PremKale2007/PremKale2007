@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prem Kalet</h1>
+<h1 align="center">Hi 👋, I'm Prem Kale</h1>
 <h3 align="center">🚀 Web Developer | MERN Stack Enthusiast | Passionate Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewizabhi&label=Profile%20views&color=0e75b6&style=flat" alt="codewizabhi" /> </p>
